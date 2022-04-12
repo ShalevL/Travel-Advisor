@@ -1,4 +1,6 @@
-Travel Advisor React Application.
+Travel Advisor Application.
+
+React.
 
 Design with Material UI.
 
