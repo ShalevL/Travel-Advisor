@@ -10,6 +10,15 @@ installation instructions
 5. insert travel advisor API key in App.js line 65
 6. run npm start
 
-![](https://github.com/ShalevL/shalev-lazarof-20-3-2022/blob/main/1.png)
+![](https://github.com/ShalevL/Travel-Advisor/blob/main/1.png)
+![](https://github.com/ShalevL/Travel-Advisor/blob/main/2.png)
+![](https://github.com/ShalevL/Travel-Advisor/blob/main/3.png)
+![](https://github.com/ShalevL/Travel-Advisor/blob/main/4.png)
+![](https://github.com/ShalevL/Travel-Advisor/blob/main/5.png)
+![](https://github.com/ShalevL/Travel-Advisor/blob/main/6.png)
+![](https://github.com/ShalevL/Travel-Advisor/blob/main/7.png)
+![](https://github.com/ShalevL/Travel-Advisor/blob/main/8.png)
+![](https://github.com/ShalevL/Travel-Advisor/blob/main/9.png)
+![](https://github.com/ShalevL/Travel-Advisor/blob/main/10.png)
 
 
