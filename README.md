@@ -1,8 +1,6 @@
 Travel-Advisor By Shalev Lazarof.
 
-React.
-
-Design with Material UI.
+React & Material UI.
 
 installation instructions
 1. Download zip and extract project folder
