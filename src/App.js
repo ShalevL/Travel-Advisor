@@ -6,6 +6,10 @@ import Header from "./components/Header/Header";
 import List from "./components/List/List";
 import Map from "./components/Map/Map";
 
+export const GOOGLE_MAPS_API_KEY = "AIzaSyAdfeQbsPIHJ4bpl4e_yxmaOkwUZW_wSVg";
+export const TRAVEL_ADVISOR_API_KEY =
+  "8996225c5amsh21e7eaef7c64fbbp108f8ajsn2d3edfece8fe";
+
 function App() {
   const [places, setPlaces] = useState([]);
   const [coordinates, setCoordinates] = useState({});
@@ -62,7 +66,7 @@ function App() {
         method: "GET",
         headers: {
           "X-RapidAPI-Host": "travel-advisor.p.rapidapi.com",
-          "X-RapidAPI-Key": "",
+          "X-RapidAPI-Key": TRAVEL_ADVISOR_API_KEY,
         },
       })
         .then(function (response) {
