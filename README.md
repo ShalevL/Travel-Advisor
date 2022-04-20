@@ -1,5 +1,7 @@
 Travel-Advisor By Shalev Lazarof.
+
 Get all restaurants, hotels, and attractions available around you or by a location search, get all the relevant data as ranking, price range, location etc.
+
 React | Material UI
 
 https://travel-advisor-shalev-lazarof.netlify.app
