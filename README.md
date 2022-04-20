@@ -4,6 +4,21 @@ Get all restaurants, hotels, and attractions available around you or by a locati
 
 React | Material UI
 
+API’s
+
+1. travel advisor api 
+
+https://rapidapi.com/apidojo/api/travel-advisor/
+
+2. google maps JS api
+
+https://developers.google.com/maps/documentation/javascript
+
+3. google maps Places api
+
+https://developers.google.com/maps/documentation/places/web-service/overview
+
+
 https://travel-advisor-shalev-lazarof.netlify.app
 
 installation instructions
