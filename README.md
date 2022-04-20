@@ -1,5 +1,7 @@
 Travel-Advisor By Shalev Lazarof.
 
+https://travel-advisor-shalev-lazarof.netlify.app
+
 Get all restaurants, hotels, and attractions available around you or by a location search, get all the relevant data as ranking, price range, location etc.
 
 React | Material UI
@@ -7,19 +9,13 @@ React | Material UI
 API’s
 
 1. travel advisor api 
-
 https://rapidapi.com/apidojo/api/travel-advisor/
 
 2. google maps JS api
-
 https://developers.google.com/maps/documentation/javascript
 
 3. google maps Places api
-
 https://developers.google.com/maps/documentation/places/web-service/overview
-
-
-https://travel-advisor-shalev-lazarof.netlify.app
 
 installation instructions
 1. Download zip and extract project folder
