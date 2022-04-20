@@ -2,7 +2,7 @@ Travel-Advisor By Shalev Lazarof.
 
 https://travel-advisor-shalev-lazarof.netlify.app
 
-Get all restaurants, hotels, and attractions available around you or by a location search, get all the relevant data as ranking, price range, location etc.
+Get all restaurants, hotels, and attractions available around you or by a location search, get all the relevant data such as ranking, price range, location etc.
 
 Frameworks & Design: React | Material UI
 
