@@ -1,6 +1,8 @@
 Travel-Advisor By Shalev Lazarof.
 
-React & Material UI.
+React | Material UI
+
+https://travel-advisor-shalev-lazarof.netlify.app
 
 installation instructions
 1. Download zip and extract project folder
